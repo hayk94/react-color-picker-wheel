@@ -2,7 +2,7 @@
   "name": "react-color-picker-wheel",
   "version": "0.0.0",
   "description": "HLS color picker wheel GUI element for React",
-  "main": "./lib/index.js",
+  "main": "./src/index.js",
   "dependencies": {
     "pure-render-decorator": "^0.1.0"
   },
