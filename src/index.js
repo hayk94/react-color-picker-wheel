@@ -1,1 +1,1 @@
-export {default as ColorPickerWheel} from './ColorPickerWheel'
+module.exports = require('./ColorPickerWheel')
