@@ -1,1 +1,1 @@
-export {default as default} from './ColorPickerWheel'
+export {default as ColorPickerWheel} from './ColorPickerWheel'
